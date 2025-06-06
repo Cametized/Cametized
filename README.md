@@ -1,5 +1,5 @@
 # Cametized
-an absolute buffoon. some may say an idiot.
+_an absolute buffoon. some may say an idiot._
 
 ## hi
 Hey! I'm Cam. I make stupid Discord Bots in Python and are also an amatuer and also shitty roblox game dev/scripter.
